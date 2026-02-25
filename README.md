@@ -1,5 +1,5 @@
 
-**Supply Chain & Inventory Optimization (OptiStock)**
+####**Supply Chain & Inventory Optimization (OptiStock)**
 
 **Project Overview**
 
