@@ -1,7 +1,5 @@
 # Supply Chain & Inventory Optimization (OptiStock)
 
-**Supply Chain & Inventory Optimization (OptiStock)**
-
 **Project Overview**
 
 OptiStock is a Power BI–based Supply Chain & Inventory Optimization dashboard designed to improve inventory visibility, reduce stockouts, minimize overstock, and optimize working capital.
